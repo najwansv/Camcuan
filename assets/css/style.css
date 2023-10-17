@@ -517,7 +517,7 @@ section {
 }
 
 .section-bg {
-  background-color: white;
+  background-color: #f3f5fa;
 }
 
 .section-title {
@@ -652,6 +652,7 @@ section {
 /*--------------------------------------------------------------
 # Why Us
 --------------------------------------------------------------*/
+
 .why-us .content {
   padding: 60px 100px 0 100px;
 }
